@@ -3,4 +3,5 @@ I used to keep logs of my daily productivity with .txt files but it got tedious 
 Version 0.0.1:
    the code is a mess right now but I'll tidy it up.
    for this version you have to manually set up the log folder for the code to work.
+   Also this is made for windows, I'm not sure if it works on other OP
 
